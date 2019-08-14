@@ -18,4 +18,4 @@ payment = float(input('How much is your payment? '))
 if bill > payment:
     print(f'Hi! Your change is {bill - payment}')
 else:
-  print("We can't have payment that is greater than the bill")
+    print("We can't have payment that is greater than the bill")
