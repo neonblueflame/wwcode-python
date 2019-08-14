@@ -12,7 +12,7 @@ For example:
   Hi! Your change is 50.00
 """
 
-bill = int(input('How much is your total bill? '))
-payment = int(input('How much is your payment? '))
+bill = float(input('How much is your total bill? '))
+payment = float(input('How much is your payment? '))
 
 print(f'Hi! Your change is {bill - payment}')  
