@@ -12,3 +12,5 @@ Practice files:
 Exercise files:
 1. the_challenge.py
 2. strings_pa_more_the_challenge.py
+3. list_exercise2.py
+4. conditional_statements_the_challenge.py
