@@ -8,9 +8,11 @@ Practice files:
 5. strings_pa_more_creation.py
 6. strings_pa_more_immutable.py
 7. strings_pa_more_str_methods.py
+8. loops_while.py
 
 Exercise files:
 1. the_challenge.py
 2. strings_pa_more_the_challenge.py
 3. list_exercise2.py
 4. conditional_statements_the_challenge.py
+5. loops_the_challenge.py
